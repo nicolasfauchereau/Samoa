@@ -1,2 +1,2 @@
-SST and TRMM rainfall monitoring for Samoa
+# SST and TRMM rainfall monitoring for Samoa
 
